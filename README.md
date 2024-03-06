@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19306
-Fork on GitHub
-5747
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Aman Maurya</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 

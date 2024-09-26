@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://amanmportfolio.pages.dev/?fbclid=PAAaY-SWCLtIgg8v13VGehj7mzDAbR-teoSsRfKZUZR41CnBjTWHWT95x1cXw](https://amanmportfolio.pages.dev/?fbclid=PAAaY-SWCLtIgg8v13VGehj7mzDAbR-teoSsRfKZUZR41CnBjTWHWT95x1cXw)
+- 👨‍💻 All of my projects are available at 
 
 - 📝 I sometimes write articles on [Coming soon](Coming soon)
 

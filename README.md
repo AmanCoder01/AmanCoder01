@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available Check Repo
 
-- 💬 Ask me about **java , react , node , express**
+- 💬 Ask me about  **Java , React , Node , Express**
 
 - 📫 How to reach me **amanofficialcoder01@gmail.com**
 

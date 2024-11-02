@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amancoder01" alt="amancoder01" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **JAVA DSA**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available Check Repo
 
-- 📝 I sometimes write articles on [Coming soon](Coming soon)
-
-- 💬 Ask me about **react , node , express**
+- 💬 Ask me about **java , react , node , express**
 
 - 📫 How to reach me **amanofficialcoder01@gmail.com**
 
 - 📄 Know about my experiences [Coming](Coming)
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **I Think I am Funny 😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

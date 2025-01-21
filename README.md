@@ -52,7 +52,7 @@
 
 <br/>
 
-<div align="center">
+<div  align="center">
 <img src="https://nirzak-streak-stats.vercel.app?user=amancoder01&theme=dark&card_width=465" height="220" alt="Streak Graph"  />
 </div>
 

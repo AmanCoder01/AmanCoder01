@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **JAVA DSA**
+- 🌱 I’m currently learning **JAVA FULL STACK**
 
 - 👨‍💻 All of my projects are available Check Repo
 
-- 💬 Ask me about  **Java , React , Node , Express**
+- 💬 Ask me about  **Java ,Spring Boot, React , Node , Express**
 
 - 📫 How to reach me **amanofficialcoder01@gmail.com**
 

@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA FULL STACK**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available Check Repo
 
